@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvync",
+        "uuid": 7802993,
+        "checksum": "wfpk2d"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
